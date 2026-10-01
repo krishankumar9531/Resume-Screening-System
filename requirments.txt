@@ -4,3 +4,4 @@ PyMuPDF
 python-docx
 joblib
 scikit-learn==1.9.1
+numpy
